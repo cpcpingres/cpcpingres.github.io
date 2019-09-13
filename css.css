@@ -1,0 +1,40 @@
+
+@font-face{font-family: 'Consolas';
+			src: url(../font/Consolas);}
+
+body {
+	margin-left: 0px;
+	font-size: 13px;
+	margin: 0;
+    padding: 0;
+    width:1400; 
+    height:705;
+    background-color: white;
+}
+
+img.t40 {
+	max-width: 40px;
+}
+img.t400 {
+	max-width: 300px;
+}
+.right {text-align : right;}
+.center {
+	align-items : center;
+}
+
+
+
+.pad-1 {
+	padding: 0px 0px 0px 1230px
+}
+
+.wid {width: 50px}
+
+
+
+	background-image: url(images/fond.jpg);
+	background-position: center;
+	background-size: contain;
+
+
